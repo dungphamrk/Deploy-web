@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <main style={{ fontFamily: 'Arial, sans-serif', padding: 24 }}>
-      <h1>Dung page lasted version 1 </h1>
+      <h1>Dung page lasted version 0</h1>
       <p>Frontend is running.</p>
     </main>
   );
